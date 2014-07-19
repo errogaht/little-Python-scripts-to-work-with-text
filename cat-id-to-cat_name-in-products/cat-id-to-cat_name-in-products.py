@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-import re
-import logging
-import urllib
-import string
-import random
-import os
-import urlparse
-from grab import Grab
-
 
 CATEGORIES = 'cat_id-cat_names.txt'
 PRODUCTS = 'products_id-cat_id.txt'
